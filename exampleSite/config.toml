@@ -1,9 +1,11 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+# baseurl = "https://example.com/"
 languageCode = "en"
 
-title = "Title"
-theme = "hyde-hyde"
+title = "Yet Another Hyde Hyde"
+
+themesDir = "../.."
+theme = "ya-hyde-hyde"
 
 ## Hugo Built-in Features
 # disqusShortname = "your-disqus-shortname"

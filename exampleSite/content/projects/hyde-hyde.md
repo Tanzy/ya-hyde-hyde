@@ -4,7 +4,7 @@ description: "A simple and cool Hugo theme"
 date: '2018-01-27'
 link: 'https://github.com/htr3n/hyde-hyde'
 screenshot: 'hyde-hyde.png'
-layout: 'portfolio'
+layout: 'projects'
 featured: 'true'
 ---
 
