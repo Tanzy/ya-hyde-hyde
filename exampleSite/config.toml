@@ -68,10 +68,10 @@ theme = "ya-hyde-hyde"
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
+    name = "Projects"
+    identifier = "projects"
     weight = 200
-    url = "/portfolio/"
+    url = "/projects/"
 [[menu.main]]
     name = "About"
     identifier = "about"
