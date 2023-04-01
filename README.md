@@ -4,6 +4,8 @@
 
 __`Yet Another Hyde-hyde`__ is a [Hugo](https://gohugo.io)'s theme originally copied from [Hyde-Hyde](https://github.com/htr3n/hyde-hyde). 
 
+[Example Site](https://ya-hyde-hyde.kenlea.dev) is a live sample of the sire
+
 ## Breaking Changes
 
 I'm sure that there will be some from Hyde-Hyde and will list them here, if I remember
