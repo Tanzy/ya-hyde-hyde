@@ -1,4 +1,4 @@
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://github.com/tanzy/ya-hyde-hyde/blob/main/LICENSE.md) ![GitHub release](https://img.shields.io/github/release/tanzy/ya-hyde-hyde.svg) ![GitHub stars](https://img.shields.io/github/stars/tanzy/ya-hyde-hyde.svg) ![GitHub forks](https://img.shields.io/github/forks/tanzy/ya-hyde-hyde.svg) ![GitHub issues](https://img.shields.io/github/issues/tanzy/ya-hyde-hyde.svg) ![GitHub issues closed](https://img.shields.io/github/issues-closed/tanzy/ya-hyde-hyde.svg)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://github.com/tanzy/ya-hyde-hyde/blob/main/LICENSE.md) ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/tanzy/ya-hyde-hyde?sort=semver&style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/tanzy/ya-hyde-hyde.svg) ![GitHub forks](https://img.shields.io/github/forks/tanzy/ya-hyde-hyde.svg) ![GitHub issues](https://img.shields.io/github/issues/tanzy/ya-hyde-hyde.svg) ![GitHub issues closed](https://img.shields.io/github/issues-closed/tanzy/ya-hyde-hyde.svg)
 
 # Yet Another Hyde-hyde
 
