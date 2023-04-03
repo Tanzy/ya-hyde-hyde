@@ -1,4 +1,4 @@
-name: Publish to Pages
+name: Publish Example Site to Pages
 
 on:
   push:
