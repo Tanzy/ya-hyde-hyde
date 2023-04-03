@@ -1,0 +1,70 @@
+languageCode: en
+title: Yet Another Hyde Hyde
+themesDir: ../..
+theme: ya-hyde-hyde
+
+
+params:
+  author: Author
+  title: Title
+  authorimage: /img/hugo.png
+  dateformat: 'Jan 2, 2006'
+
+  # sidebar, copyright & license
+  #logoimage: "/img/hugo.png"
+  copyright: htr3n
+  since: 2019
+  license: CC BY-SA 4.0
+  licenseURL: 'https://creativecommons.org/licenses/by-sa/4.0'
+  showBuiltWith: true
+
+  # https://highlightjs.org
+  highlightjs: true
+  highlightjsstyle: "github"
+
+  # please choose either GraphComment or Disqus or Utterances
+  #GraphCommentId: "..."
+  #UtterancesRepo: "..." # https://utteranc.es/
+  #UtterancesIssueTerm: "..." # pathname, url, title, og:title
+  #UtterancesTheme: "..." # github-light or github-dark
+
+  ## Social Accounts
+  social:
+    github: <username>
+    instagram: <username>
+    xing: <username>
+    linkedin: <username>
+    twitter: <username>
+    facebook: <username>
+    microblog: <username>
+    stackoverflow: <username>
+    telegram: <username>
+    email: your-email@example.com
+
+## Main Menu
+menu:
+  main:
+    - name: Posts
+      weight: 100
+      identifier: posts
+      url: /posts/
+    - name: Projects
+      identifier: projects
+      weight: 200
+      url: /projects/
+    - name: About
+      identifier: about
+      weight: 300
+      url: /about/
+
+
+markup:
+  highlight:
+    #guessSyntax = false
+    #hl_Lines = ""
+    #lineNoStart = 1
+    #lineNos = true
+    #lineNumbersInTable = true
+    #tabWidth = 4
+    #noClasses = false
+    style: github
