@@ -1,13 +1,4 @@
-{{ define "header" }}
-    {{ partial "page-single/variables-init" . }}
-    {{ partial "header.html" . }}
-{{ end }}
 
 {{ define "content" }}
     {{ partial "page-single/content" . }}
-{{ end }}
-
-{{ define "footer" }}
-    {{ partial "page-single/footer" . }}
-    {{ partial "page-single/variables-deinit" . }}
 {{ end }}

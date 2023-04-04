@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-    {{ block "header" . }}{{ end }}
-    <body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
+<html lang="{{ .Site.LanguageCode  | default " en-gb" }}">
+{{ partial "header" . }}
+
+<body class="{{ .Site.Params.themeColor }} {{if .Site.Params.layoutReverse}}layout-reverse{{end}}">
     {{ partial "sidebar" . }}
-        <div class="content container">
-            {{ block "content" . }}{{ end }}
-        </div>
-        {{ block "footer" . }}{{ end }}
-    </body>
+    <div class="content container">
+        {{ block "content" . }}{{ end }}
+    </div>
+    {{ partial "footer" . }}
+</body>
+
 </html>

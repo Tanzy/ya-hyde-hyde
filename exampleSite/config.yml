@@ -68,3 +68,5 @@ markup:
     #tabWidth = 4
     #noClasses = false
     style: github
+
+paginate: 2

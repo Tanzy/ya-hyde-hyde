@@ -1,12 +1,5 @@
 {{ $include_toc := .Params.include_toc}}
-{{ if .Site.GoogleAnalytics }}
-  <!-- Google Analytics -->
-  {{ template "_internal/google_analytics.html" . }}
-{{ end }}
-{{ partial "footer/font-awesome-js.html" . }}
-{{ partial "highlight-js.html" . }}
-{{ partial "footer/mermaid-js.html" . }}
-{{ partial "footer/math-jax.html" . }}
+
 {{ with .Site.Params.toc }}
 {{ if and (eq . "tocbot") (ne $include_toc false) }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.js"></script>

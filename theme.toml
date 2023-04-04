@@ -5,7 +5,7 @@ description = "A simply cool Hyde inspired theme, based of hyde-hyde from https:
 tags = ["blog", "theme", "hyde", "highlight.js", "font-awesome", "google analytics", "disqus", "personal", "syntax highlighting", "responsive", "graphcomment"]
 features = ["blog", "theme", "highlight.js", "font-awesome", "responsive", "disqus", "graphcomment", "portfolio"]
 homepage = "https://github.com/tanzy/ya-hyde-hyde"
-min_version = "0.43"
+min_version = "0.110"
 
 [author]
     name = "tanzy"
